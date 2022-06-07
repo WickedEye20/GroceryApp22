@@ -1,5 +1,5 @@
 # Hello :wave:
-Welcome to **GroxeryUp** Project. It is a E-grocery shop.<br/>
+Welcome to **GroceryMania** Project. It is a E-grocery shop.<br/>
 An android application for buying grocery online from near by shops, In it seller are also able to register their shop.<br />
 ## Technology/ Stack used :mortar_board:
 - Java 
